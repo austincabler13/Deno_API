@@ -1,3 +1,3 @@
-import { dashboard  } from "./ndex.html"
+import { dashboard  } from "./index.html"
 
 // API
